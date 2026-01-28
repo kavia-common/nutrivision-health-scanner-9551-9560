@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/nutrivision-health-scanner-9551-9560/mobile_frontend/.dart_tool/flutter_build/1d538bd672df067506fee4f65ef03694/native_assets.json: 
